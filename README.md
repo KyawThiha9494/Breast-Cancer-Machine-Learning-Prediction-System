@@ -22,5 +22,3 @@ and more comprehensively (Kumari and Singh,2018).
 
 ![bcps](https://user-images.githubusercontent.com/65886071/82979060-a704f280-a018-11ea-9172-4489fc4cf68f.jpg)
 
-KyawThiha
-
